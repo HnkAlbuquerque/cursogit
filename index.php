@@ -4,4 +4,4 @@ try {
 } catch (Exception $e) {
 	
 }
- echo "aaa";
+ echo "agora é b";
